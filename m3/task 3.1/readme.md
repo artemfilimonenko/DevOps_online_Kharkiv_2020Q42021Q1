@@ -38,7 +38,7 @@ Made a selection from the main table DB MySQL
 
 <img src="./screenshots/select from main DB.jpg" width="90%"/>
 
-Made a backup, chenged tables and then restore DB
+Made a backup, changed tables and then restore the DB
 
 <img src="./screenshots/made backup.jpg" width="90%"/>
 <img src="./screenshots/db_restore.jpg" width="90%"/>
