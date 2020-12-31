@@ -15,7 +15,7 @@ Installing MySQL server on Virtual Machine
 
 <img src="./screenshots/1.mysqldownloaded.jpg" width="90%"/>
 
-As a subject area I choose social media and describe the DB scheme of it
+As a subject area I choose social media and described the DB scheme of it
  
 <img src="./screenshots/database_scheme_socialmedia.jpg" width="90%"/>
 
