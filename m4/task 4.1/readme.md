@@ -7,12 +7,12 @@ Connected 4 PC and a hub
 
 <img src=".\screenshots\Screenshot_1.jpg" width="80%"/>
 
-Made a subnet through assigning IP addresses to each PC, checked if packets were sent and received 
+Made a subnet through assigning IP addresses to each PC, checked if ICMP packets were sent and received 
 
 <img src=".\screenshots\2. ICMP_auto captured.jpg" width="80%"/>
 <img src=".\screenshots\PDU_info.jpg" width="80%"/>
 
-Then I erased IP addresses (packets don't go through the subnet without IP addresses)
+Then I erased IP addresses (ICMP packets don't go through the subnet without IP addresses)
 
 <img src=".\screenshots\3.Erased IP addresses.jpg" width="80%"/>
 
