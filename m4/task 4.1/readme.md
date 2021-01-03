@@ -24,7 +24,7 @@ Created project with 4 PC and Switch
 
 <img src=".\screenshots\5.Switch_4PC's.jpg" width="80%"/>
 
-#### The main difference is that hub operates at the 1st OSI level while switch at the 2nd level. Packets from switch transmitted to only one port that specified as a recipient.
+#### The main difference is that hub operates at the 1st OSI level whereas switch at the 2nd level. Packets from switch transmitted to the only one port that specified as a recipient.
 
 2 switches and 8 PC scheme
 
